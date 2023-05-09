@@ -51,6 +51,17 @@ h1 {
   color: #344563;
 }
 
+.contact-form p {
+  color: #ebebff;
+  font-size: 5.3vw;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 7.467vw;
+  text-align: center;
+  margin-top: 3.2vw;
+  margin-bottom: 13.86vw;
+}
+
 section.intro p {
   margin-top: 3.2vw;
   font-size: 4.26vw;
@@ -187,6 +198,21 @@ li.html {
   margin-bottom: 0;
 }
 
+button {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 4.5vw;
+  line-height: 3.34vw;
+  letter-spacing: 0.03em;
+  align-items: center;
+  text-align: center;
+  padding: 4.5vw 3vw;
+  border: 1px solid #396df2;
+  border-radius: 8px;
+  color: #396df2;
+  background-color: transparent;
+}
+
 .about-myself button {
   margin-bottom: 16vw;
 }
@@ -237,7 +263,7 @@ li.languages p {
   background-size: contain;
   background-position: right 6.4vw;
   align-items: center;
-  background-color: #6070FF;
+  background-color: #6070ff;
   background-image: url(images/contact\ form\ shapes-mobile@2x.png);
 }
 
@@ -245,17 +271,6 @@ li.languages p {
   color: #fff;
   font-size: 10.6vw;
   margin-top: 27.467vw;
-}
-
-.contact-form p {
-  color: #ebebff;
-  font-size: 5.3vw;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 7.467vw;
-  text-align: center;
-  margin-top: 3.2vw;
-  margin-bottom: 13.86vw;
 }
 
 .contact-form input {
@@ -295,21 +310,6 @@ li.languages p {
 .flex-column {
   display: flex;
   flex-direction: column;
-}
-
-button {
-  font-style: normal;
-  font-weight: 500;
-  font-size: 4.5vw;
-  line-height: 3.34vw;
-  letter-spacing: 0.03em;
-  align-items: center;
-  text-align: center;
-  padding: 4.5vw 3vw;
-  border: 1px solid #396df2;
-  border-radius: 8px;
-  color: #396df2;
-  background-color: transparent;
 }
 
 button:hover {
