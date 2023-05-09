@@ -277,6 +277,11 @@ li.languages p {
   margin-bottom: 5.867vw;
 }
 
+.contact-form button {
+  background-color: #fff;
+  margin-bottom: 11.73vw;
+}
+
 .flex-row {
   display: flex;
 }
